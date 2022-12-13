@@ -1,6 +1,6 @@
 # Social Media Data Analysis:
 
-### [Presentation] (https://docs.google.com/presentation/d/1QaTPFyjnRetbaficplvnEAL5vhYNuSJ_/edit#slide=id.p1)
+### [Presentation](https://docs.google.com/presentation/d/1QaTPFyjnRetbaficplvnEAL5vhYNuSJ_/edit#slide=id.p1)
 
 ![Social Media data](https://user-images.githubusercontent.com/72240938/207240255-005ca4e8-094a-4795-9ac8-185e089a7c0a.jpg)
 
