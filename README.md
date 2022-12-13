@@ -24,7 +24,7 @@ My task was to analyze the requirements of the project which was related to "Soc
 
 ## Visualization in Power BI:
 
-* Used bar graphs and line charts for visualization.
+* Used bar graphs and donut charts for visualization.
 
 -- Finally created a presenation on MS PowerPoint in a structured manner.
 
